@@ -1,0 +1,31 @@
+{
+  "attribution": "",
+  "autoscale": true,
+  "bounds": [
+    -180,
+    -85,
+    180,
+    85
+  ],
+  "center": [
+    0,
+    0,
+    3
+  ],
+  "created": 1415246400000,
+  "description": "",
+  "filesize": 0,
+  "format": "png8:m=h:c=64",
+  "id": "wdt.swarm",
+  "maxzoom": 3,
+  "minzoom": 2,
+  "name": "Radar",
+  "private": false,
+  "scheme": "xyz",
+  "source": "",
+  "tilejson": "2.0.0",
+  "tiles": [
+    "./tiles/{z}/{x}/{y}.png"
+  ],
+  "webpage": ""
+}

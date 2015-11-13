@@ -1,0 +1,19 @@
+{
+  "name": "mapbox-gl-radar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch-js": "watchify ./index.js -o dist/mapbox-gl-radar.js -dv",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Devin Clark <dclark@wdtinc.com> (http://devin-clark.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "watchify": "^3.3.1"
+  },
+  "dependencies": {
+    "mapbox-gl": "0.11.X"
+  }
+}
